@@ -35,3 +35,8 @@ fruits.sort();
 
 // reverse
 fruits.reverse();
+
+
+
+// Typecasting
+Array.from("hello").forEach(char => console.log(char))
